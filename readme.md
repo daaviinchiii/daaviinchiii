@@ -163,6 +163,72 @@ Tech Stack:
 ## 🏆 GitHub Achievements
 
 <div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <a href="https://github.com/daaviinchiii?achievement=pull-shark&tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-gold.png" width="90" alt="Pull Shark Gold x4" /><br />
+          <b>Pull Shark</b><br />
+          <sub>🥇 Gold (x4)</sub>
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="https://github.com/daaviinchiii?achievement=pair-extraordinaire&tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-gold.png" width="90" alt="Pair Extraordinaire Gold x4" /><br />
+          <b>Pair Extraordinaire</b><br />
+          <sub>🥇 Gold (x4)</sub>
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="https://github.com/daaviinchiii?achievement=galaxy-brain&tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/galaxy-brain-gold.png" width="90" alt="Galaxy Brain Gold x4" /><br />
+          <b>Galaxy Brain</b><br />
+          <sub>🥇 Gold (x4)</sub>
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="https://github.com/daaviinchiii?achievement=starstruck&tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/starstruck-gold.png" width="90" alt="Starstruck Gold x4" /><br />
+          <b>Starstruck</b><br />
+          <sub>🥇 Gold (x4)</sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="130">
+        <a href="https://github.com/daaviinchiii?achievement=quickdraw&tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="90" alt="Quickdraw" /><br />
+          <b>Quickdraw</b><br />
+          <sub>⚡ Special</sub>
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="https://github.com/daaviinchiii?achievement=yolo&tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="90" alt="YOLO" /><br />
+          <b>YOLO</b><br />
+          <sub>🤠 Special</sub>
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="https://github.com/daaviinchiii?achievement=public-sponsor&tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="90" alt="Public Sponsor" /><br />
+          <b>Public Sponsor</b><br />
+          <sub>💖 Special</sub>
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="https://github.com/daaviinchiii?achievement=arctic-code-vault-contributor&tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="90" alt="Arctic Code Vault" /><br />
+          <b>Arctic Code Vault</b><br />
+          <sub>❄️ Vault 2020</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
   <img src="https://github-profile-trophy.vercel.app/?username=Daaviinchiii&theme=discord&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
