@@ -1,344 +1,245 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=David%20Cardoso&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Açores,%20Portugal%20🇵🇹&descSize=20&descAlignY=55"/>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58679b&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!+👋;Full+Stack+Developer+from+Azores+🌊;Building+amazing+web+%26+mobile+apps+🚀;Always+learning+and+evolving+📚;Let's+create+something+awesome!+✨)](https://git.io/typing-svg)
-  
-  <p>
-    <a href="https://www.linkedin.com/in/david-cardoso"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:davidcardoso.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-    <a href="https://github.com/daaviinchiii"><img src="https://img.shields.io/github/followers/daaviinchiii?label=Follow&style=flat-square&color=58679b&labelColor=1c1917"/></a>
-    <img src="https://komarev.com/ghpvc/?username=daaviinchiii&color=58679b&style=flat-square&label=Profile+Views"/>
-  </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58679b,100:7c3aed&height=210&section=header&text=David%20Cardoso&fontSize=58&fontColor=ffffff&fontAlignY=37&desc=Full-Stack%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Backend&descAlignY=58&descSize=19"/>
+
+### Building real products from idea to production.
+
+Full-Stack Developer based in **Azores, Portugal 🇵🇹**
+
+[![GitHub](https://img.shields.io/badge/GitHub-daaviinchiii-181717?style=for-the-badge\&logo=github)](https://github.com/daaviinchiii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Cardoso-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/david-cardoso)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-58679b?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:davidcardoso.dev@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=daaviinchiii&style=flat-square&color=58679b&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## About me
 
-```typescript
-const davidCardoso = {
-  info: {
-    nome: "David Cardoso",
-    idade: 18,
-    localização: "Açores, Portugal 🇵🇹",
-    escola: "EPROSEC",
-    role: "Full Stack Developer"
-  },
-  
-  code: {
-    frontend: ["React", "React Native", "HTML5", "CSS3", "JavaScript"],
-    mobile: ["Flutter", "Dart", "Android"],
-    desktop: ["Electron"],
-    backend: ["Node.js", "Express", "REST APIs"],
-    databases: ["MongoDB", "SQLite"],
-    tools: ["Git", "VS Code", "Figma", "Android Studio"]
-  },
-  
-  currentFocus: {
-    learning: ["React Native", "Advanced Flutter", "Node.js"],
-    building: ["Dashboard Applications", "Real-time Monitoring Systems"],
-    improving: ["System Architecture", "UI/UX Design", "Code Quality"]
-  },
-  
-  goals2025: [
-    "🌟 Contribute to Open Source projects",
-    "📱 Launch mobile apps on stores",
-    "🎓 Master full-stack development",
-    "👥 Build a strong developer network",
-    "💼 Land first developer role"
+```ts
+const david = {
+  location: "Azores, Portugal 🇵🇹",
+  role: "Full-Stack Developer",
+  education: "Universidade dos Açores",
+
+  interests: [
+    "Web Applications",
+    "Mobile Applications",
+    "Backend Systems",
+    "System Architecture",
+    "AI Integrations",
+    "UI/UX"
   ],
-  
+
+  currently: {
+    building: "Production web & mobile products",
+    improving: "Architecture, scalability & code quality",
+    learning: "Every day"
+  }
 };
+```
+
+I enjoy turning ideas into **complete products** — from UI/UX and frontend development to APIs, databases, infrastructure and deployment.
+
+My main focus is creating software that is **simple to use, maintainable and actually useful**.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
+### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Tools & Infrastructure
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+</div>
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Applications
+
+Modern and responsive applications with:
+
+* React & TypeScript
+* Authentication
+* REST APIs
+* Dashboards
+* Real-time data
+* Role-based access
+* Responsive interfaces
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📱 Mobile Applications
+
+Cross-platform mobile experiences with:
+
+* React Native
+* Expo
+* Flutter
+* Native integrations
+* Authentication
+* Device integrations
+* API-driven applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Systems
+
+Production-oriented APIs and services:
+
+* Node.js
+* Express
+* PostgreSQL
+* Prisma
+* Authentication & authorization
+* Database architecture
+* External integrations
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Infrastructure
+
+Deploying and maintaining applications using:
+
+* Linux
+* Docker
+* VPS infrastructure
+* Reverse proxies
+* Git workflows
+* CI/CD
+* Monitoring
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current Focus
+
+```text
+01. Building production-ready web & mobile applications
+02. Designing scalable backend architectures
+03. Improving developer workflows and automation
+04. Exploring practical AI integrations
+05. Shipping products instead of just prototypes
 ```
 
 ---
 
-## 🚀 Projetos em Destaque
+## GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td width="100%" valign="top">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=daaviinchiii&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" />
 
-### 🖥️ Electron Desktop App
-**Aplicação desktop multiplataforma**
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaviinchiii&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://streak-stats.demolab.com/?user=daaviinchiii&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daaviinchiii\&bg_color=0d1117\&color=c9d1d9\&line=8b5cf6\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Beyond the Code
 
 ```yaml
-Tech Stack:
-  Framework: Electron
-  Language: JavaScript
-  Features:
-    - Inventory management
-    - Farm monitoring system
-    - Token authentication
-    - Persistent storage
+approach:
+  - Understand the problem
+  - Keep the solution simple
+  - Build
+  - Test
+  - Ship
+  - Measure
+  - Improve
+
+principles:
+  - Clean code
+  - Good user experience
+  - Maintainable architecture
+  - Continuous learning
 ```
 
-**Status:** 🟢 Funcional
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
-### 💻 Frontend & Mobile Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Let's build something useful.
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+Open to collaborating on interesting software projects and new ideas.
 
-### 🔧 Tools & Platforms
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-### 🖥️ Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daaviinchiii&show_icons=true&count_private=true&hide_border=true&title_color=58679b&icon_color=58679b&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="David Cardoso github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaviinchiii&layout=compact&hide_border=true&title_color=58679b&text_color=58679b&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=daaviinchiii&theme=tokyonight&hide_border=true&background=0D1117&stroke=58679b&ring=58679b&fire=58679b&currStreakLabel=58679b&sideLabels=58679b&dates=c9d1d9" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daaviinchiii&bg_color=0d1117&color=58679b&line=58679b&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/daaviinchiii/daaviinchiii/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<details>
-<summary>📊 More Stats</summary>
 <br>
 
-<div align="center">
-  
-![3D Contributions](https://ssr-contributions-svg.vercel.app/_/daaviinchiii?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-58679b?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/david-cardoso)
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:58679b,100:0d1117&height=120&section=footer"/>
 
 </div>
-
-</details>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center" width="130">
-        <a href="https://github.com/daaviinchiii?achievement=pull-shark&tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-gold.png" width="90" alt="Pull Shark Gold x4" /><br />
-          <b>Pull Shark</b><br />
-          <sub>🥇 Gold (x4)</sub>
-        </a>
-      </td>
-      <td align="center" width="130">
-        <a href="https://github.com/daaviinchiii?achievement=pair-extraordinaire&tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-gold.png" width="90" alt="Pair Extraordinaire Gold x4" /><br />
-          <b>Pair Extraordinaire</b><br />
-          <sub>🥇 Gold (x4)</sub>
-        </a>
-      </td>
-      <td align="center" width="130">
-        <a href="https://github.com/daaviinchiii?achievement=galaxy-brain&tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/galaxy-brain-gold.png" width="90" alt="Galaxy Brain Gold x4" /><br />
-          <b>Galaxy Brain</b><br />
-          <sub>🥇 Gold (x4)</sub>
-        </a>
-      </td>
-      <td align="center" width="130">
-        <a href="https://github.com/daaviinchiii?achievement=starstruck&tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/starstruck-gold.png" width="90" alt="Starstruck Gold x4" /><br />
-          <b>Starstruck</b><br />
-          <sub>🥇 Gold (x4)</sub>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="130">
-        <a href="https://github.com/daaviinchiii?achievement=quickdraw&tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="90" alt="Quickdraw" /><br />
-          <b>Quickdraw</b><br />
-          <sub>⚡ Special</sub>
-        </a>
-      </td>
-      <td align="center" width="130">
-        <a href="https://github.com/daaviinchiii?achievement=yolo&tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="90" alt="YOLO" /><br />
-          <b>YOLO</b><br />
-          <sub>🤠 Special</sub>
-        </a>
-      </td>
-      <td align="center" width="130">
-        <a href="https://github.com/daaviinchiii?achievement=public-sponsor&tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="90" alt="Public Sponsor" /><br />
-          <b>Public Sponsor</b><br />
-          <sub>💖 Special</sub>
-        </a>
-      </td>
-      <td align="center" width="130">
-        <a href="https://github.com/daaviinchiii?achievement=arctic-code-vault-contributor&tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="90" alt="Arctic Code Vault" /><br />
-          <b>Arctic Code Vault</b><br />
-          <sub>❄️ Vault 2020</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Daaviinchiii&theme=discord&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</div>
-
----
-
-## 💼 Experience & Education
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Education
-**EPROSEC**  
-*Açores, Portugal*
-
-**Universidade dos Açores**  
-*Licenciatura em Tecnologias*
-
-Studying technology with focus on:
-- Software Development
-- Web & Mobile Applications
-- System Architecture
-- UI/UX Design
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Skills Development
-
-**Frontend**: ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 80%  
-**Mobile**: ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 70%  
-**Backend**: ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ 60%  
-**UI/UX**: ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 75%  
-**Git/GitHub**: ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ 85%  
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Current Status
-
-<div align="center">
-
-```javascript
-const currentStatus = {
-  🔭 working_on: "Dashboard Application with real-time monitoring",
-  🌱 learning: "Advanced React Native & Node.js patterns",
-  👯 looking_to: "Collaborate on open source projects",
-  💬 ask_me_about: "React, Flutter, Node.js, or any tech stuff!"
-};
-```
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-cardoso)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daaviinchiii)
-
-<br/>
-
-### 💡 Open to:
-🤝 Collaborating on open source projects | 💼 Development opportunities | 🎓 Learning & mentorship | 🚀 Challenging and innovative projects
-
-</div>
-
----
-
-## 💡 Developer Wisdom
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📚 Development Philosophy
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[💡 Ideate] --> B[🔨 Build]
-    B --> C[🧪 Test]
-    C --> D[🚀 Deploy]
-    D --> E[📊 Analyze]
-    E --> F[🔄 Improve]
-    F --> A
-    
-    style A fill:#58679b,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#58679b,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#58679b,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#58679b,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#58679b,stroke:#333,stroke-width:2px,color:#fff
-    style F fill:#58679b,stroke:#333,stroke-width:2px,color:#fff
-```
-
-**"First, solve the problem. Then, write the code."** – John Johnson
-<div align="center">
-
-### 🤝 Thanks for Visiting!
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer"/>
